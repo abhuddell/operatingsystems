@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+//practice with stacksmashing
+
 void login() {
     int authenticated=0;
     char pw[4];
