@@ -5,6 +5,8 @@
 #include <string.h>
 #include "voidQueue.h"
 
+//working with threads, specifically p_thread functions
+
 Queue* queue;
 pthread_mutex_t m = PTHREAD_MUTEX_INITIALIZER;
 /*These are the condition variables that the boss and  workers wait on */

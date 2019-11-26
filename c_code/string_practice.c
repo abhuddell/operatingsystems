@@ -2,6 +2,8 @@
 #include <string.h>
 #include <stdlib.h>
 
+//learning about string.h library functions
+
 int main(int argc, char const *argv[])
 {
     char msg[] = "I am on my way to class";
